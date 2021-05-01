@@ -1,2 +1,1 @@
-# AbdSpark
-spark code
+# building the model using ML
